@@ -6,4 +6,5 @@ hi
 
 ### phython code
 
-KakaoTalk_20210512_214703388
+
+:(https://github.com/kuro0801/test/blob/main/FB_IMG_1615459352907.jpg)
